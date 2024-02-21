@@ -255,3 +255,5 @@
 /Users/mikey/Projects/dotnet core webapi tutorial/TodoApi/obj/Debug/net8.0/ref/TodoApi.dll
 /Users/mikey/Projects/dotnet core webapi tutorial/TodoApi/bin/Debug/net8.0/Npgsql.dll
 /Users/mikey/Projects/dotnet core webapi tutorial/TodoApi/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/mikey/Projects/dotnet core webapi tutorial/TodoApi/bin/Debug/net8.0/CsvHelper.dll
+/Users/mikey/Projects/dotnet core webapi tutorial/TodoApi/bin/Debug/net8.0/System.Linq.Async.dll
